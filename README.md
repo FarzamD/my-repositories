@@ -4,7 +4,7 @@ Description for all my repositories
 1. [img2csv](##img2csv)
 2. [ML](##ML)
     
-    1. [Third Example](###DL)
+    1. [DL](###DL)
 4. [my-nights-eye](##my-nights-eye)
 
 ## img2csv
