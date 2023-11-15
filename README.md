@@ -1,5 +1,7 @@
 # my-repositories
 Description for all my repositories
+### notice
+In all projects, code blocks are made for spyder. Feel free to modify according to your editor.
 ## Table of Contents
 1. [img2csv](#img2csv)
 2. [ML](#ML)
@@ -12,7 +14,7 @@ Description for all my repositories
 ## ML
 ### DL
 #### [image-autoencoder](https://github.com/FarzamD/image-autoencoder)
-repository includes 3 auto-encoder projects:
+The repository includes 3 auto-encoder projects:
 + mnist auto-encoder: simple 1D auto-encoder for mnist dataset
 + img_auto_encoder 1D: 1D auto-encoder for a set of common images
 + img_auto_encoder 2D: 2D auto-encoder for a set of common images
